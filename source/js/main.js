@@ -135,7 +135,7 @@ $(document).ready(function() {
             if (hSalam < 11) {
                 ucapanSalam = "Selamat Pagi kamu"
                 kata1 = "maaf yah kalo setiap main ama aku kita kalah";
-                kata2 = "Semoga hari hari mu menyenangkan <i class='fa fa-heart'></i>";
+                kata2 = "Semoga hari hari mu menyenangkan ini lope buat kamu <i class='fa fa-heart'></i>";
             } else {
                 if (hSalam < 16) {
                     ucapanSalam = "Selamat Siang kamu"
